@@ -1,10 +1,8 @@
 Title
-##
 Garden_nlp
 ##
 
 About program
-##
 A program that recognises and classifies named entities found in a text into pre-defined categories, such as persons, places, organisations, dates,
 etc. spaCy uses a statistical model to classify a broad range of entities, including persons, events, works-of-art and nationalities / religions (see the
 documentation for the full list.
@@ -13,7 +11,6 @@ and other elements, thereby creating “tokens”
 ##
 
 Install 
-##
 python or Vscode IDE
 Install SpaCy
 Copy Code and run it in your desired IDE
